@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">A frontend developer student from Norway</h3>
 
-<img align="center" src="(https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)" />
 
 - 🔭 I’m currently working on my [Portfolio](https://candid-semifreddo-d0b00f.netlify.app/)
 
