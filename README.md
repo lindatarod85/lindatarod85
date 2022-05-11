@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">A frontend developer student from Norway</h3>
 
-- 🔭 I’m currently working on my portfolio [Portfolio](https://candid-semifreddo-d0b00f.netlify.app/)
+- 🔭 I’m currently working on my [Portfolio](https://candid-semifreddo-d0b00f.netlify.app/)
 
 - 🌱 I’m currently learning **Frontend development**
 
