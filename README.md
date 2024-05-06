@@ -1,20 +1,25 @@
 # Hi there, I'm Linda! 👋
 
-I'm a Frontend Developer based in Norway. Recently graduated from Noroff. I'm passionate about creating user-friendly and sustainable websites.
-
 ## About Me
 
-- 🎓 Graduated from Noroff as a frontend developer
-- 💻 Working as a Wordpress developer at Ahlin Novateur
+- 🎓 Graduated from Noroff as a frontend developer (2024)
+- 💻 Working as a Wordpress developer at Ahlin Novateur (since 2020)
+- 🌿 Passionate about making user-friendly and sustainable websites
 - 🌍 Based in Norway
 
-## Languages and Frameworks
+## Languages, Frameworks and Tools
 
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
 - React
+- Wordpress
+- Adobe XD
+- Mailchimp
+- Google Analytics
+- Google Tag Manager
+- Search Console
 
 ## Get in Touch
 
