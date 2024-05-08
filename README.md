@@ -11,8 +11,8 @@
 
 - HTML
 - CSS
+- Javascript
 - Bootstrap
-- JavaScript
 - React
 - Wordpress
 - Adobe XD
