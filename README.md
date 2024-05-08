@@ -19,7 +19,7 @@
 - Mailchimp
 - Google Analytics
 - Google Tag Manager
-- Search Console
+- Google Search Console
 
 ## Get in Touch
 
