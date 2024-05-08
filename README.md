@@ -1,3 +1,5 @@
+![image](https://i.postimg.cc/vTxMkgVX/Linda-baerekraftige-nettsider-800x450.jpg)
+
 # Hi there, I'm Linda! 👋
 
 ## About Me
